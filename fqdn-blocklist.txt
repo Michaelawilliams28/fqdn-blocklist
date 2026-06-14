@@ -1,1 +1,3 @@
-
+*.medberthform.xyz
+*.deukmyunde.org
+*.sensiblemoth.com
