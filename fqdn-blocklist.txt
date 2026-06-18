@@ -2,3 +2,6 @@
 *.deukmyunde.org
 *.sensiblemoth.com
 *.andhthrewdo.xyz
+*.streameast.ga
+*.auth.streamea.st
+*.usrpubtrk.com
