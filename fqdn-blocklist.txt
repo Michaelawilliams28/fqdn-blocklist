@@ -6,3 +6,4 @@
 *.auth.streamea.st
 *.usrpubtrk.com
 *.biddager.com
+*.usrpubtrk.com
