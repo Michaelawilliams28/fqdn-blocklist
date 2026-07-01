@@ -5,5 +5,6 @@
 *.streameast.ga
 *.auth.streamea.st
 *.usrpubtrk.com
+usrpubtrk.com
 *.biddager.com
 *.usrpubtrk.com
