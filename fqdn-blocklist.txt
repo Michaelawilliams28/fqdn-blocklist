@@ -1,9 +1,16 @@
 *.medberthform.xyz
+medberthform.xyz
 *.deukmyunde.org
+deukmyunde.org
 *.sensiblemoth.com
+sensiblemoth.com
 *.andhthrewdo.xyz
+andhthrewdo.xyz
 *.streameast.ga
-*.auth.streamea.st
+streameast.ga
+*.streamea.st
+streamea.st
 *.usrpubtrk.com
 usrpubtrk.com
 *.biddager.com
+biddager.com
