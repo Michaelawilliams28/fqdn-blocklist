@@ -7,4 +7,3 @@
 *.usrpubtrk.com
 usrpubtrk.com
 *.biddager.com
-*.usrpubtrk.com
