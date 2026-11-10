@@ -16,3 +16,7 @@ usrpubtrk.com
 biddager.com
 *.iqzonertb.live
 iqzonertb.live
+*.elandorderstarti.com
+elandorderstarti.com
+*.anedukeration.com
+anedukeration.com
