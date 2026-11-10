@@ -20,3 +20,5 @@ iqzonertb.live
 elandorderstarti.com
 *.anedukeration.com
 anedukeration.com
+*.putpeace.com
+putpeace.com
