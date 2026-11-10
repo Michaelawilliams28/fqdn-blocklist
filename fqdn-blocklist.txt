@@ -14,3 +14,5 @@ streamea.st
 usrpubtrk.com
 *.biddager.com
 biddager.com
+*.iqzonertb.live
+iqzonertb.live
