@@ -22,3 +22,5 @@ elandorderstarti.com
 anedukeration.com
 *.putpeace.com
 putpeace.com
+*.alchemyx.online
+alchemyx.online
