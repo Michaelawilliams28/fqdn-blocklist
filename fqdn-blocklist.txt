@@ -24,3 +24,5 @@ anedukeration.com
 putpeace.com
 *.alchemyx.online
 alchemyx.online
+*.marefeh.com
+marefeh.com
