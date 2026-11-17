@@ -26,3 +26,5 @@ putpeace.com
 alchemyx.online
 *.marefeh.com
 marefeh.com
+*.adimpressions.online
+adimpressions.online
