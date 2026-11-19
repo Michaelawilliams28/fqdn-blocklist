@@ -28,3 +28,7 @@ alchemyx.online
 marefeh.com
 *.adimpressions.online
 adimpressions.online
+*.duafui.com
+duafui.com
+*.dxnt.net
+dxnt.net
