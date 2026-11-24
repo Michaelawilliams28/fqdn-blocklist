@@ -32,3 +32,5 @@ adimpressions.online
 duafui.com
 *.dxnt.net
 dxnt.net
+*.co.in
+co.in
